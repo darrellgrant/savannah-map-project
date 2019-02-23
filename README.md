@@ -1,2 +1,2 @@
 # savannah-map-project
-3D based project 
+Flood hazard mapping is an exercise to define those coastal areas which are at risk of flooding under extreme conditions (climatetechwiki.org).The goal of this project is to create a 3D map of the Savannah Historic District, improved with additional topology, relief and elevation features, which will demonstrate, through animation, those areas of the city most at risk of flooding. 
